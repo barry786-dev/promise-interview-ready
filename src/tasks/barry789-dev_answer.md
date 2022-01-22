@@ -68,7 +68,7 @@ Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-re
 
 ### 4. Which statement is `true`? Select Only one.
 - (_) JavaScript Function Execution Stack(Call Stack) never gets empty.
-- (_) The job queue gets higher priority than the callback queue.
+- (X) The job queue gets higher priority than the callback queue.
 - (_) The only job of Event Loop is to manage the Call Stack
 - (_) The StackOverflow exception is random.
 
