@@ -60,11 +60,8 @@ setTimeout(function() {f2();}, 5000);
 
 setTimeout(function() {f3();}, 3000);
 ```
-Options are,
+answer is,
 - Let's do it!, f4, f1, f3, f2
-- Let's do it!, f1, f3, f2, f4
-- Let's do it!, f1, f2, f3, f4
-- Let's do it!, f1, f4, f2, f3
 
 Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-ready/blob/main/src/tasks/answers.md#3-whats-the-output-of-the-code-below)**
 
