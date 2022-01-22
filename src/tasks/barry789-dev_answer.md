@@ -95,11 +95,8 @@ const cartoon = () => {
 
 cartoon();
 ```
-Options are,
+answer is,
 - Cartoon, Jerry, should it be right after Tom, before Jerry?, tom
-- Cartoon, Tom, Jerry, should it be right after Tom, before Jerry?,
-- Cartoon, Tom, should it be right after Tom, before Jerry?, Jerry
-- Error
 
 Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-ready/blob/main/src/tasks/answers.md#5-guess-the-output)**
 
