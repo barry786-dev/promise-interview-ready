@@ -158,11 +158,8 @@ new Promise((resolve, reject) => {
     resolve('Albert');
 }).then(result => console.log(result));
 ```
-Options are,
+answer is,
 - f4, Boom, Sonic, Albert, f1, f3, f2
-- f4, f1, Boom, f2, Sonic, f3, Albert
-- f4, Boom, Sonic, Albert, f3, f1, f2
-- f4, Boom, Sonic, Albert, f1, f2, f3
 
 Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-ready/blob/main/src/tasks/answers.md#7-guess-the-output)**
 
