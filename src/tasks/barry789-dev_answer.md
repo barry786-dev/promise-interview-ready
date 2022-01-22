@@ -24,8 +24,8 @@ answer is,
 Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-ready/blob/main/src/tasks/answers.md#1-whats-the-output-of-this-code)**
 
 ### 2. Which statements are `true`? Select multiple.
-- [ ] JavaScript is single-threaded
-- [ ] By default, JavaScript is synchronous
+- [x] JavaScript is single-threaded
+- [x] By default, JavaScript is synchronous
 - [ ] Only promises make JavaScript asynchronous
 - [ ] All function callbacks are asynchronous
 
