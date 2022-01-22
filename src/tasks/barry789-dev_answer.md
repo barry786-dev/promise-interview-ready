@@ -18,10 +18,8 @@ f1();
 f1();
 f1();
 ```
-Options are,
-- Let's do it!, in settimeout, f1, f1, f1, f1
+answer is,
 - Let's do it!, f1, f1, f1, f1, in settimeout
-- Let's do it!, f1, , in settimeout, f1, f1, f1
 
 Answer: **[Click here for Answer](https://github.com/atapas/promise-interview-ready/blob/main/src/tasks/answers.md#1-whats-the-output-of-this-code)**
 
